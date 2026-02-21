@@ -22,10 +22,10 @@ Analytics Layer: Power BI
 
 ## 📊 Dashboards
 ### Sales Dashboard
-![Sales](images/sales_dashboard.png)
+![Sales](images/sales_dashborad.png)
 
 ### Inventory Dashboard
-![Inventory](images/inventory_dashboard.png)
+![Inventory](images/inventory_dashborad.png)
 
 ## ⭐ Key KPIs
 - Total Sales
